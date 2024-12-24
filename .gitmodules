@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ginny100/Document-Search-Engine-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ginny100/Document-Search-Engine-Backend
